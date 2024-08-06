@@ -1,7 +1,8 @@
 Regression
 ==============================
 
-A short description of the project.
+Used different Machine Learning Models such as linear regression, Random Forest and Decision Tree. 
+Dataset: linear.csv
 
 Project Organization
 ------------
